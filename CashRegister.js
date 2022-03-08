@@ -1,5 +1,5 @@
 /*
-: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register
+LINK: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register
 */
 function checkCashRegister(price, cash, cid) {
   let changed = { status: 'OPEN', change: [] };
